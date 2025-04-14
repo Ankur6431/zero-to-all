@@ -40,7 +40,7 @@ Zero to All is a completely free educational platform designed to help students 
 
   <main>
     <h2>Maths Video</h2>
-    <iframe width="100%" height="315" src="https://www.youtube.com/embed/nlTnBcvhS54" frameborder="0" allowfullscreen></iframe>
+    <iframe width="100%" height="315" src="https://youtu.be/OE_7Kq9VsYE?si=VRV21NnE3ddKdg4M /embed/nlTnBcvhS54" frameborder="0" allowfullscreen></iframe>
 
     <h2>Science Notes PDF</h2>
     <iframe src="https://drive.google.com/file/d/1AbcdEfgh1234XYZ/preview" width="100%" height="600px"></iframe>
