@@ -47,5 +47,39 @@ Zero to All is a completely free educational platform designed to help students 
   </main>
 </body>
 </html>
+<meta property="og:title" content="Zero to All - Free Study Platform">
+<meta property="og:description" content="Learn with Zero to All: Free online study material, notes, PDFs, and video lectures for students.">
+<meta property="og:image" content="URL_of_image.jpg">
+<meta property="og:url" content="https://Ankur6431.github.io/zero-to-all/">
+<meta property="og:type" content="website">
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=YOUR_TRACKING_ID"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'YOUR_TRACKING_ID');
+</script>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://Ankur6431.github.io/zero-to-all/</loc>
+    <lastmod>2025-04-14</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://Ankur6431.github.io/zero-to-all/subjects.html</loc>
+    <lastmod>2025-04-14</lastmod>
+    <priority>0.8</priority>
+  </url>
+</urlset>
+
+@media only screen and (max-width: 600px) {
+  body {
+    font-size: 14px;
+  }
+  .container {
+    padding: 10px;
+  }
+}
